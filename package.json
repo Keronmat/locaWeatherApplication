@@ -1,0 +1,24 @@
+{
+  "name": "localweatherapplication",
+  "version": "1.0.0",
+  "description": "A weather application that uses jQuery to give your local weather",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keronmat/locaWeatherApplication.git"
+  },
+  "author": "Keron Matthews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keronmat/locaWeatherApplication/issues"
+  },
+  "homepage": "https://github.com/Keronmat/locaWeatherApplication#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
