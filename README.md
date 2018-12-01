@@ -4,6 +4,6 @@ localWeatherApplication simply uses jQuery for getting the users location and th
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. This was just a project done on freeCodeCamp
 
 Please make sure to update tests as appropriate.
